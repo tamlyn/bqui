@@ -1,0 +1,11 @@
+{
+  "name": "bqui",
+  "version": "0.1.0",
+  "description": "User interface for Bee Queue",
+  "author": "Tamlyn Rhodes",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "ioredis": "^2.2.0"
+  }
+}
